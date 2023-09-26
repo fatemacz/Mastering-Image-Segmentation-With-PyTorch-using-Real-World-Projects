@@ -1,2 +1,1 @@
-# Mastering Image Segmentation with PyTorch
-
+# Mastering Image Segmentation With PyTorch using Real-World Projects
