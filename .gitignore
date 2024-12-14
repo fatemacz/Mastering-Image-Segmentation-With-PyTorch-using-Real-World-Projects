@@ -132,5 +132,4 @@ dmypy.json
 train/
 val/
 test/
-*.pt
-*.pth
+*.pt[h]
